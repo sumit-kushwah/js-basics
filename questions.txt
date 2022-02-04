@@ -1,0 +1,1 @@
+1. how the memory allocation happens in javascript 
