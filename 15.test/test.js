@@ -81,8 +81,12 @@
 //     console.log(i);
 // }
 // console.log(i)
-
-
+console.log(1 == 1)
+console.log(1 == '1') // it will check only values
+console.log(1 === 1)
+console.log(1 === '1')
+console.log(typeof 1)
+console.log(typeof '1')
 
 
 
